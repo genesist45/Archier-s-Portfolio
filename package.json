@@ -1,5 +1,6 @@
 {
   "name": "archier",
+  "homepage": "https://archier.github.io/archier",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
