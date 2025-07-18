@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Archiers/static/css/main.f76e64d3.css",
+    "main.js": "/Archiers/static/js/main.3ceb05f1.js",
+    "static/js/453.0fd9972a.chunk.js": "/Archiers/static/js/453.0fd9972a.chunk.js",
+    "index.html": "/Archiers/index.html",
+    "main.f76e64d3.css.map": "/Archiers/static/css/main.f76e64d3.css.map",
+    "main.3ceb05f1.js.map": "/Archiers/static/js/main.3ceb05f1.js.map",
+    "453.0fd9972a.chunk.js.map": "/Archiers/static/js/453.0fd9972a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f76e64d3.css",
+    "static/js/main.3ceb05f1.js"
+  ]
+}
