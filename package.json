@@ -1,6 +1,6 @@
 {
-  "name": "archier",
-  "homepage": "https://archier.github.io/archier",
+  "name": "portfolio",
+  "homepage": "https://archier.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
